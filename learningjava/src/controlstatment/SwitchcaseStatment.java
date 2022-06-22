@@ -1,4 +1,4 @@
-package basicofjava;
+package controlstatment;
 
 public class SwitchcaseStatment {
 
