@@ -8,11 +8,11 @@ public class IfEleseCondition {
 		int age = 27;
 		
 		
-		if(age > 25) {
-			System.out.println("My Age Is Not Correct");
+		if(age == 27) {
+			System.out.println("You Guess Correct");
 		}
 		else {
-			System.out.println("My Age Is  Correct");
+			System.out.println("Opps Not Correct");
 		}
 		
 	}
