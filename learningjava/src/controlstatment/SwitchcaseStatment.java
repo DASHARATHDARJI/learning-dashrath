@@ -5,7 +5,7 @@ public class SwitchcaseStatment {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("current month");
-		int Month =6;
+		int Month =13;
 		switch (Month) {
 		
 		case 1: System.out.println("January");
@@ -32,7 +32,7 @@ public class SwitchcaseStatment {
 		break;
 		case 12: System.out.println("December");
 		break;
-	default:
+	default: System.out.println("default value");
 		}
 
 }
