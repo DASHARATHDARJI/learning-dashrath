@@ -6,7 +6,7 @@ public class Wrappers {
 	
 	int i = 100;	
 		
-	Integer j = new Integer( i ); 
+	Integer j = new Integer( i ); // boxing
 	
 	System.out.println(i == j);
 		
