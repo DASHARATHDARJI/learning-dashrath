@@ -1,4 +1,4 @@
-package inheritance;
+package Thisandsuper;
 
 	class TestAnimal extends Dog  {  
 	    
@@ -13,6 +13,6 @@ package inheritance;
 	    {  
 	        // call default constructor of the TestAnimal
 	        new TestAnimal();  
-	        System.out.println("Inside Main");  
+	        System.out.println();  
 }
 	}
